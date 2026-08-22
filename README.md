@@ -55,9 +55,10 @@ Italia se mantiene como el mejor candidato individual también dentro de Catalu�
 
 ## Recomendaciones
 
-- Dirigir campañas de temporada baja/media al mercado **italiano**, dado su comportamiento ya repartido a lo largo del año
-- Aprovechar el volumen del mercado **británico** con campañas de temporada media
-- Para mercados muy estacionales (Francia, Portugal, Bélgica), ofrecer paquetes de temporada media (mayo-junio, septiembre-octubre) en vez de intentar moverlos fuera de su patrón vacacional habitual
+- **Priorizar campañas dirigidas al mercado italiano** en los meses de menor ocupación (diciembre-marzo): es el mercado con el comportamiento más repartido a lo largo del año, tanto a nivel España como específicamente en Cataluña, por lo que convertir demanda existente en reservas fuera de temporada es más viable que con mercados muy estacionales
+- **Explorar campañas de temporada media (mayo-junio, septiembre-octubre) para el mercado británico**: combina volumen alto (el mayor entre todos los países en Cataluña) con estacionalidad moderada, por lo que pequeñas mejoras aquí tienen impacto significativo en cifras absolutas
+- **Ofrecer paquetes con descuento o actividades incluidas en temporada media a Francia, Portugal y Bélgica**, sin plantear mover su viaje fuera de verano — su comportamiento actual (muy concentrado en julio-agosto) sugiere que están condicionados por vacaciones escolares/laborales fijas, no por preferencia libre
+- **No basar la segmentación en el motivo del viaje** (ocio vs. negocio): el análisis mostró que esta variable no diferencia a los países estacionales de los que no lo son
 
 ## Herramientas
 
@@ -65,5 +66,4 @@ Python · pandas · matplotlib
 
 ## Autora
 
-
-Ksenia Kucherenko — [LinkedIn](https://www.linkedin.com/in/ksenia-k-671896394) · en transición hacia analista de datos junior freelance
+Ksenia — [LinkedIn](#) · en transición hacia analista de datos junior freelance
