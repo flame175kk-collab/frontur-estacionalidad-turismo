@@ -39,4 +39,4 @@ Python · pandas · matplotlib
 ## Autora
 
 
-Ksenia Kucherenko — [LinkedIn](linkedin.com/in/ksenia-k-671896394) · en transición hacia analista de datos junior freelance
+Ksenia Kucherenko — [LinkedIn](www.linkedin.com/in/ksenia-k-671896394) · en transición hacia analista de datos junior freelance
