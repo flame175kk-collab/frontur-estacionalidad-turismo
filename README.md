@@ -36,10 +36,5 @@ Microdatos oficiales de **Frontur** (INE), julio 2025 - junio 2026 (12 meses), d
 
 Python · pandas · matplotlib
 
-## Autora
-
-Ksenia Kucherenko — [LinkedIn](linkedin.com/in/ksenia-k-671896394) · en transición hacia analista de datos junior freelance
-
-## Autora
 
 Ksenia Kucherenko — [LinkedIn](linkedin.com/in/ksenia-k-671896394) · en transición hacia analista de datos junior freelance
