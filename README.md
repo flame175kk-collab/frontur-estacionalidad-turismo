@@ -13,7 +13,7 @@ Microdatos oficiales de **Frontur** (INE), julio 2025 - junio 2026 (12 meses), d
 ## Proceso
 
 1. **Carga**: unión de 12 ficheros mensuales (~790.000 registros) con pandas
-2. **Limpieza**: filtrado de ruido temporal (residuos de años ajenos al periodo real), mapeo de códigos a texto legible, eliminación de valores incompletos
+2. **Limpieza**: filtrado de ruido temporal (residuos de años ajenos al periodo real), mapeo de códigos a texto legible, eliminación de valores incompletos, y exclusión de Ceuta y Melilla (la mayoría de meses sin ningún dato registrado, muestra insuficiente para el análisis)
 3. **Filtrado al segmento hotelero**: solo turistas que pernoctan en "Hoteles y similares" (390.100 filas, 44,2% del total)
 4. **Análisis**: estacionalidad por país y CCAA usando el coeficiente de variación, ponderado con el factor de elevación de la encuesta
 
@@ -66,4 +66,4 @@ Python · pandas · matplotlib
 
 ## Autora
 
-Ksenia — [LinkedIn](https://www.linkedin.com/in/ksenia-k-671896394) · en transición hacia analista de datos junior freelance
+Ksenia — [LinkedIn](#) · en transición hacia analista de datos junior freelance
